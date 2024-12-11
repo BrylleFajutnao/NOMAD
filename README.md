@@ -1,11 +1,11 @@
-###### NOMAD
+# NOMAD
 NOMAD: Navigating Open Minds Across Destinations
 
 NOMAD is a sophisticated travel planner designed to simplify and enhance your travel experience. With its intuitive user interface, NOMAD helps you plan your entire journey—from creating detailed itineraries to managing your budget and tracking your carbon footprint. Whether you're a solo traveler or planning a group trip, NOMAD ensures that your adventures are well-organized, financially manageable, and environmentally conscious.
 
 ---
 
-#### Key Features
+## Key Features
 
 1. User Log-In System:
 NOMAD includes a secure log-in system that allows users to create personalized profiles. By registering an account, users can save their travel information and access it anytime, whether on the same device or across multiple platforms. This functionality ensures that users can manage itineraries and past trips in a secure environment, protecting their data while offering seamless access.
@@ -24,7 +24,7 @@ NOMAD allows users to save and revisit past itineraries. This feature helps you 
 
 ---
 
-#### OOP Principles
+## OOP Principles
 
 NOMAD is designed using the four key principles of Object-Oriented Programming (OOP), ensuring that the application is efficient, scalable, and easy to maintain:
 
@@ -42,7 +42,7 @@ NOMAD is designed using the four key principles of Object-Oriented Programming (
 
 ---
 
-#### Setup Instructions
+## Setup Instructions
 To get NOMAD up and running, follow the steps below:
 
 Initialize the Database:
