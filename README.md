@@ -1,7 +1,7 @@
 # NOMAD
 NOMAD: Navigating Open Minds Across Destinations
 
-nomad.jpg
+![nomad](https://github.com/user-attachments/assets/2d3ae4ee-daa3-4299-8dce-22d699eb9e8e)
 
 NOMAD is a sophisticated travel planner designed to simplify and enhance your travel experience. With its intuitive user interface, NOMAD helps you plan your entire journey—from creating detailed itineraries to managing your budget and tracking your carbon footprint. Whether you're a solo traveler or planning a group trip, NOMAD ensures that your adventures are well-organized, financially manageable, and environmentally conscious.
 
