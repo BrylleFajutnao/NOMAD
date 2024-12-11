@@ -33,7 +33,7 @@ NOMAD is designed using the four key principles of Object-Oriented Programming (
 >NOMAD encapsulates its data within different classes, each representing a distinct part of the program. For example, classes for Users, Itineraries, Budgets, and Carbon Footprint Tracking contain private fields that are only accessible through public methods (getters and setters). This ensures that each part of the system is well-protected from unintended changes, reducing the likelihood of bugs and maintaining data integrity.
 
 2. Inheritance:
->The program uses inheritance to create a flexible and extensible structure. For instance, different types of users (e.g., admin, regular user) inherit common functionality from a base User class, while adding specific attributes or methods unique to each type. This makes it easier to add new user roles or features in the future without rewriting code.
+>The program uses inheritance to create a flexible and extensible structure. For instance, different types of trips inherit common functionality from a base Trip class, while adding specific attributes or methods unique to each type. This makes it easier to add features in the future without rewriting code.
 
 3. Polymorphism:
 >NOMAD employs polymorphism to allow different classes to share the same method names but perform different actions depending on the context. For example, when calculating the carbon footprint, the method could behave differently depending on whether the user is traveling by flight, train, or car. This reduces redundancy and increases code efficiency.
