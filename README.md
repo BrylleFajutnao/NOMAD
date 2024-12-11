@@ -44,7 +44,27 @@ NOMAD is designed using the four key principles of Object-Oriented Programming (
 
 ---
 
+# Sustainable Development Goal (SDG) Requirements
+
+NOMAD plays an important role in advancing several key Sustainable Development Goals (SDGs), particularly those focused on responsible consumption, environmental protection, and fostering inclusive economic growth.
+
+1. SDG 12: Responsible Consumption and Production
+>NOMAD contributes to SDG 12 by helping users make more informed and sustainable travel choices. The carbon footprint tracking feature encourages travelers to consider the environmental impact of their journeys, promoting the use of eco-friendly transportation options and accommodations. Additionally, the budgeting tool helps users assess costs and identify ways to minimize wasteful spending, fostering more responsible travel planning.
+
+2. SDG 13: Climate Action
+>Through its carbon footprint tracking and sustainable travel recommendations, NOMAD directly supports SDG 13. By providing users with tools to reduce their carbon emissions, the program empowers individuals to make conscious decisions that contribute to climate action. Whether through promoting the use of public transportation or encouraging low-carbon accommodation choices, NOMAD helps users lower their environmental impact while traveling.
+
+3. SDG 8: Decent Work and Economic Growth
+>NOMAD also aligns with SDG 8 by fostering inclusive economic growth. Through its itinerary and budget planning features, users can explore affordable travel options, which in turn can support local economies and businesses. By facilitating more efficient and budget-friendly travel planning, NOMAD helps make travel more accessible to a broader range of people, including those with limited financial resources, thereby promoting decent work and inclusive economic opportunities.
+
+4. SDG 11: Sustainable Cities and Communities
+>NOMAD’s emphasis on eco-friendly travel choices ties into SDG 11, which focuses on making cities and human settlements inclusive, safe, resilient, and sustainable. By encouraging sustainable transportation methods and promoting environmentally conscious accommodations, NOMAD helps travelers contribute to the development of greener and more sustainable urban areas.
+
+
+---
+
 ## Setup Instructions
+
 To get NOMAD up and running, follow the steps below:
 
 Initialize the Database:
