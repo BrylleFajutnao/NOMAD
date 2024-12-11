@@ -1,5 +1,4 @@
 # NOMAD
-NOMAD: Navigating Open Minds Across Destinations
 
 ![nomad](https://github.com/user-attachments/assets/2d3ae4ee-daa3-4299-8dce-22d699eb9e8e)
 
