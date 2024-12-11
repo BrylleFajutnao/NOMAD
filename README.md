@@ -39,7 +39,7 @@ NOMAD is designed using the four key principles of Object-Oriented Programming (
 >NOMAD employs polymorphism to allow different classes to share the same method names but perform different actions depending on the context. For example, when calculating the carbon footprint, the method could behave differently depending on whether the user is traveling by flight, train, or car. This reduces redundancy and increases code efficiency.
 
 4. Abstraction:
->The program abstracts complex processes behind simple interfaces. For example, when planning an itinerary, users interact with a high-level interface, unaware of the intricate back-end processes that validate and store the data. Similarly, users can input budget and carbon footprint information without needing to understand the underlying calculations. This improves the user experience and streamlines development.
+>The program abstracts complex processes behind simple interfaces. For example, when planning an itinerary, users interact with the interface, unaware of the intricate back-end processes that validate and store the data. Similarly, users can see their budget and carbon footprint information without needing to understand the underlying calculations. This improves the user experience and streamlines development.
 
 ---
 
